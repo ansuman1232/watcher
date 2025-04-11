@@ -1,0 +1,13 @@
+img{
+    height:5%;
+    width:5%;
+}
+.tagline{
+    height:100%;
+    width:60%;
+    background-color: black;
+    color:aliceblue;
+}
+.navbar{
+    background-color: black !important;
+}
